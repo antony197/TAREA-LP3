@@ -1,0 +1,6 @@
+22-Jul-2021 14:44:17.535 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+22-Jul-2021 14:44:17.536 INFO [http-nio-8081-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+22-Jul-2021 14:44:17.607 INFO [http-nio-8081-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2021 14:44:17.613 INFO [http-nio-8081-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+22-Jul-2021 14:44:17.642 INFO [http-nio-8081-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Max'/AppData/Local/Temp/context1971170660475526118.xml'
+22-Jul-2021 14:44:18.321 INFO [http-nio-8081-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/InicioSesion'
